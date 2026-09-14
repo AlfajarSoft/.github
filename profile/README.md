@@ -9,7 +9,8 @@ AlfajarSoft is dedicated to delivering high-quality engineering, robust infrastr
 We specialize in full-stack development, cloud infrastructure, and data-driven solutions:
 * **Backend:** NestJS, Node.js, TypeScript, Python, Go
 * **Frontend:** React, TypeScript, Tailwind CSS
-* **Cloud & DevOps:** AWS, Docker, GitHub Actions, Kubernetes
+* **Ai & Data Science ** RAG, QLORA, NLP, Python, Flask
+* **Cloud & DevOps:** VPS , AWS, Docker, GitHub Actions, Kubernetes
 * **Databases:** PostgreSQL, MongoDB, Redis
 
 ## 📂 Core Projects
