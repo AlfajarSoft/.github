@@ -1,6 +1,6 @@
-# Alfjaarsoft
+# AlfajarSoft
 
-Welcome to the official repository for **Alfjaarsoft**. We build modern, scalable software solutions designed to streamline operations and enhance digital experiences.
+Welcome to the official repository for **AlfAjarSoft**. We build modern, scalable software solutions designed to streamline operations and enhance digital experiences.
 
 ## 🚀 About Us
 Alfjaarsoft is dedicated to delivering high-quality engineering, robust infrastructure, and intuitive user experiences. This repository hosts our central hub, providing quick access to our documentation, active projects, and corporate overview.
